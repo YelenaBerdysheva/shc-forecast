@@ -91,3 +91,8 @@ li:first-letter {
 .weather-forecast-temperatures {
   font-size: 13px;
 }
+
+.forcast-row {
+  display: flex;
+  justify-content: space-around;
+}
